@@ -29,6 +29,7 @@ I hope this was fun, though. Thanks for trying it out!
 >>> x, y = {0}, {1}
 >>> min(x, y) == min(y, x)
 False
+[reason](https://docs.python.org/2/library/sets.html#set-objects)
 ```
 
 ### Question 2: size of sets and lists
